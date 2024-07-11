@@ -12,7 +12,7 @@ while True:
       confidence=0.6
     )
 
-    pyautogui.click(mole[0] / 2, mole[1] / 2)
+    pyautogui.click(mole[0], mole[1])
   except pyautogui.ImageNotFoundException:
     print("Image pas trouvée")
   
