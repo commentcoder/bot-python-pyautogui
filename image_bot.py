@@ -7,7 +7,7 @@ while True:
   try:
     mole = pyautogui.locateCenterOnScreen(
       'images/taupe.png',
-      region=(554 * 2, 356 * 2, 1117 - 554, 870 - 356),
+      region=(554, 356, 1117 - 554, 870 - 356),
       grayscale=True,
       confidence=0.6
     )
