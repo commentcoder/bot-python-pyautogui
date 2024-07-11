@@ -15,5 +15,5 @@ while True:
     pyautogui.click(gift_pos[0], gift_pos[1])
 
   for y in upgrades_y[::-1]:
-    if pyautogui.pixel(x * 2, y * 2) == purchasable_color:
+    if pyautogui.pixel(x, y) == purchasable_color:
       pyautogui.click(x, y)
