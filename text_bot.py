@@ -21,7 +21,7 @@ lines = res.strip() \
 is_over = True
 for i, line in enumerate(lines):
     for _ in range(20 - int(line)):
-      pyautogui.click(810, 415 + step * counter)
+      pyautogui.click(x, y_start + y_step * i)
       is_over = False
 
   if is_over == True:
