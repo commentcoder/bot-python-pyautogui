@@ -5,3 +5,4 @@ Lien vers la vidéo :
 
 Lien vers le code du sites avec les différentes pages :
 - Lien vers [le code du site vu dans cette vidéo](https://github.com/commentcoder/bot-playgrounds)
+- Lien vers [le site avec les pages](https://commentcoder.github.io/bot-playgrounds/)
