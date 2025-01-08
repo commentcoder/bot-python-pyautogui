@@ -42,4 +42,4 @@ Lien vers le code du sites avec les différentes pages :
 - [Apprendre Python en 1 heure - Cours complet pour débutant en Python 2024](https://www.youtube.com/watch?v=5EnpNI2iCZA)
 - [Apprendre Django en partant de Zéro - 1 heure de Tutoriel pour les Débutants en Python](https://www.youtube.com/watch?v=xJNvJaLl8bU)
 - [Comment créer un bot discord en Python ? Cours complet pour apprendre Discord.py en 1 heure](https://www.youtube.com/watch?v=LHF1dgwW6aw)
-- [Comment créer un Bot Telegram ? Tutoriel Python pour les débutants](https://www.youtube.com/watch?v=vF7MaDR6zX4)
+- [Comment créer un bot Telegram ? Tutoriel Python pour les débutants](https://www.youtube.com/watch?v=vF7MaDR6zX4)
