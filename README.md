@@ -5,6 +5,8 @@ Lien vers la vidéo :
 
 ---
 
+👨‍⚖️ Disclaimer : Avec un grand pouvoir vient de grandes responsabilités. Bottez de manière responsable ! 
+
 🤯 Comment installer Tesseract sur votre ordinateur ? 
 - https://www.commentcoder.com/tesseract/
 
@@ -15,10 +17,10 @@ Lien vers la vidéo :
 - https://github.com/commentcoder/bot-playgrounds
 
 🧠 Modules utilisés pendant ce cours :
-- PyAutoGUI https://pyautogui.readthedocs.io/en/latest/
-- Pillow https://pillow.readthedocs.io/en/stable/
-- OpenCV https://opencv.org/
-- PyTesseract https://github.com/madmaze/pytesseract
+- PyAutoGUI : https://pyautogui.readthedocs.io/en/latest/
+- Pillow : https://pillow.readthedocs.io/en/stable/
+- OpenCV : https://opencv.org/
+- PyTesseract : https://github.com/madmaze/pytesseract
 
 Lien vers le code du sites avec les différentes pages :
 - Lien vers [le code du site vu dans cette vidéo](https://github.com/commentcoder/bot-playgrounds)
@@ -34,7 +36,6 @@ Lien vers le code du sites avec les différentes pages :
 
 🐍 Mes autres tutoriels en Python :
 - [Apprendre Python en 1 heure - Cours complet pour débutant en Python 2024](https://www.youtube.com/watch?v=5EnpNI2iCZA)
-- [Comment créer un bot de clic en Python ?](https://www.youtube.com/watch?v=yEYN4P0lRzY)
 - [Apprendre Django en partant de Zéro - 1 heure de Tutoriel pour les Débutants en Python](https://www.youtube.com/watch?v=xJNvJaLl8bU)
 - [Comment créer un bot discord en Python ? Cours complet pour apprendre Discord.py en 1 heure](https://www.youtube.com/watch?v=LHF1dgwW6aw)
 - [Comment créer un Bot Telegram ? Tutoriel Python pour les débutants](https://www.youtube.com/watch?v=vF7MaDR6zX4)
