@@ -5,6 +5,10 @@ Lien vers la vidéo :
 
 ---
 
+Comment faire un bot Python ? Dans cette vidéo, on fait des bots qui cliquent et interagissent avec le clavier.
+
+Ces bots peuvent voir la couleur de pixels, repérer des images et même lire du texte !
+
 👨‍⚖️ Disclaimer : Avec un grand pouvoir vient de grandes responsabilités. Bottez de manière responsable ! 
 
 🤯 Comment installer Tesseract sur votre ordinateur ? 
